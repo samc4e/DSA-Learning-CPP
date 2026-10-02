@@ -121,6 +121,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/0509-fibonacci-number) |
+| [2487-remove-nodes-from-linked-list](https://github.com/sameerchore/DSA-Learning-CPP/tree/main/C++/Medium/2487-remove-nodes-from-linked-list/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -148,10 +149,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/sameerchore/DSA-Learning-CPP/tree/main/C++/Medium/2487-remove-nodes-from-linked-list/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/sameerchore/DSA-Learning-CPP/tree/main/C++/Medium/2487-remove-nodes-from-linked-list/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -168,4 +171,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/sameerchore/DSA-Learning-CPP/tree/main/C++/Medium/2487-remove-nodes-from-linked-list/) | Medium |
 <!---LeetCode Topics End-->
