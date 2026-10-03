@@ -77,6 +77,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/sameerchore/DSA-Learning-CPP/tree/main/C++/Medium/0053-maximum-subarray/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/0414-third-maximum-number) |
@@ -115,6 +116,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/sameerchore/DSA-Learning-CPP/tree/main/C++/Medium/0053-maximum-subarray/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0509-fibonacci-number](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -175,4 +177,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/sameerchore/DSA-Learning-CPP/tree/main/C++/Medium/2487-remove-nodes-from-linked-list/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/sameerchore/DSA-Learning-CPP/tree/main/C++/Medium/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
