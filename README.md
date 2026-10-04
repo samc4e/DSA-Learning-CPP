@@ -85,6 +85,7 @@
 | [1288-remove-covered-intervals](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/1288-remove-covered-intervals) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3701-compute-alternating-sum](https://github.com/sameerchore/DSA-Learning-CPP/tree/main/C++/Easy/3701-compute-alternating-sum/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -142,6 +143,7 @@
 | ------- | ------- |
 | [0067-add-binary](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/0067-add-binary) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/2180-count-integers-with-even-digit-sum) |
+| [3701-compute-alternating-sum](https://github.com/sameerchore/DSA-Learning-CPP/tree/main/C++/Easy/3701-compute-alternating-sum/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/3925-concatenate-array-with-reverse) |
 ## Number Theory
 | Problem Name | Difficulty |
