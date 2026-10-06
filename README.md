@@ -96,6 +96,7 @@
 | ------- | ------- |
 | [0067-add-binary](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/0067-add-binary) |
 | [0520-detect-capital](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/0520-detect-capital) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sameerchore/DSA-Learning-CPP/tree/main/C++/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
@@ -158,6 +159,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sameerchore/DSA-Learning-CPP/tree/main/C++/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/sameerchore/DSA-Learning-CPP/tree/main/C++/Medium/2487-remove-nodes-from-linked-list/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -174,6 +176,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sameerchore/DSA-Learning-CPP/tree/main/C++/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -183,4 +186,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/sameerchore/DSA-Learning-CPP/tree/main/C++/Medium/0053-maximum-subarray/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sameerchore/DSA-Learning-CPP/tree/main/C++/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 <!---LeetCode Topics End-->
