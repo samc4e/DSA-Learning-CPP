@@ -99,6 +99,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sameerchore/DSA-Learning-CPP/tree/main/C++/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/sameerchore/DSA-Learning-CPP/tree/main/C++/Medium/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -165,6 +166,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/0001-two-sum) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/sameerchore/DSA-Learning-CPP/tree/main/C++/Medium/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
