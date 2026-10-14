@@ -87,6 +87,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/sameerchore/DSA-Learning-CPP/tree/main/C++/Easy/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/sameerchore/DSA-Learning-CPP/tree/main/C++/Easy/3701-compute-alternating-sum/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/sameerchore/DSA-Learning-CPP/tree/main/C++/Medium/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3925-concatenate-array-with-reverse](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -107,6 +108,7 @@
 | [0414-third-maximum-number](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/1288-remove-covered-intervals) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/sameerchore/DSA-Learning-CPP/tree/main/C++/Medium/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -182,6 +184,7 @@
 | ------- | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sameerchore/DSA-Learning-CPP/tree/main/C++/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/sameerchore/DSA-Learning-CPP/tree/main/C++/Medium/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
