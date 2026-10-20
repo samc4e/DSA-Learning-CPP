@@ -85,6 +85,7 @@
 | [1288-remove-covered-intervals](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/1288-remove-covered-intervals) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sameerchore/DSA-Learning-CPP/tree/main/C++/Easy/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/sameerchore/DSA-Learning-CPP/tree/main/C++/Easy/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/sameerchore/DSA-Learning-CPP/tree/main/C++/Easy/3701-compute-alternating-sum/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sameerchore/DSA-Learning-CPP/tree/main/C++/Medium/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -117,6 +118,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sameerchore/DSA-Learning-CPP/tree/main/C++/Easy/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/sameerchore/DSA-Learning-CPP/tree/main/C++/Easy/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
