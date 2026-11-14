@@ -7,9 +7,11 @@ public:
             int j=0;
             int k=i;
             int sum=0;
-            while(k<=n){
-               sum=accumulate(nums.begin()+j,nums.begin()+k,0);
-               cout<<sum;
+            sum=accumulate(nums.begin(),nums.begin()+k,0);
+            if(sum>0 && sum<mini){mini=sum;}
+            while(k<n){
+               sum+=nums[k];
+               sum-=nums[j];
                if(sum>0 && sum<mini){mini=sum;}
                k++;j++;
             }
