@@ -122,6 +122,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sameerchore/DSA-Learning-CPP/tree/main/C++/Easy/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/sameerchore/DSA-Learning-CPP/tree/main/C++/Easy/3232-find-if-digit-game-can-be-won/) | Easy |
+| [3360-stone-removal-game](https://github.com/samc4e/DSA-Learning-CPP/tree/master/3360-stone-removal-game) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Dynamic Programming
 |  |
@@ -152,6 +153,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/0067-add-binary) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/2180-count-integers-with-even-digit-sum) |
+| [3360-stone-removal-game](https://github.com/samc4e/DSA-Learning-CPP/tree/master/3360-stone-removal-game) |
 | [3701-compute-alternating-sum](https://github.com/sameerchore/DSA-Learning-CPP/tree/main/C++/Easy/3701-compute-alternating-sum/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/3925-concatenate-array-with-reverse) |
 ## Number Theory
