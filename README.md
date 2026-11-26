@@ -102,6 +102,7 @@
 | [0520-detect-capital](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/0520-detect-capital) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sameerchore/DSA-Learning-CPP/tree/main/C++/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/samc4e/DSA-Learning-CPP/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sameerchore/DSA-Learning-CPP/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/sameerchore/DSA-Learning-CPP/tree/main/C++/Medium/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Sorting
